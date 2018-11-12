@@ -1,6 +1,5 @@
 #!/bin/bash
 # Date: 2018-10-31
-# Author: Wen-Kai, Chang
 # Reference: https://www.linuxjournal.com/content/normalizing-filenames-and-data-using-bash-string-variable-manipulations
 
 input="$*"
